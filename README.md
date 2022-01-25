@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ upendhar sakinala
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning in Full stack development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate with an organization
 - 📫 How to reach me sakinalaupendhar@gmail.com
 -  Phone:9542859826
 
